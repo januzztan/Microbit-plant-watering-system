@@ -5,3 +5,5 @@ Example of a simple IOT project that demonstrates the effectiveness of robotics 
 ![final prototype](https://github.com/januzztan/Plant-watering-system/assets/39711151/ac52665a-4140-4ce9-9d6c-7b660d48c7a6)
 
 ![moisture sensor](https://github.com/januzztan/Plant-watering-system/assets/39711151/5dc4d0d9-9cc6-4892-8284-ad362ed90bf6)
+
+![makecode blocks](https://github.com/januzztan/Plant-watering-system/assets/39711151/3c5b3f84-d699-48d6-ad1f-8205b8835817)
